@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "1",
+    "firstName": "Jon",
+    "lastName": "Perera",
+    "addressLineOne": "23/1 Main Road",
+    "addressLineTwo": "Navinna",
+    "city": "Mahragama",
+    "zipCode": "10800",
+    "contactNumber": "0779125803"
+  }
+]

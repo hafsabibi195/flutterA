@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "addressLineOne": "123 Main Street",
+    "addressLineTwo": "Apt 4B",
+    "city": "New York",
+    "zipCode": "10001",
+    "contactNumber": "1234567890"
+  }
+]
